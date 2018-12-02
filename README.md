@@ -2,9 +2,9 @@
 Um app para auxiliar na compra de itens que o usuário deseje. 
 Baixe o arquivo "tobuy.apk" acima (ou baixe pelo link https://rebrand.ly/tobuy) e execute em seu Android.
 
-![alt text](https://imgur.com/a/LozVWtu)
-![alt text](https://imgur.com/DY7D0Tl)
-![alt text](https://imgur.com/DHEdNIl)
+![Itens](https://i.imgur.com/ILIBozW.png)
+![Item example](https://i.imgur.com/fGkrpaO.png)
+![User screen](https://i.imgur.com/l9lG395.png)
 
 Dúvidas e/ou sugestões: andersonsantos412@hotmail.com
 
