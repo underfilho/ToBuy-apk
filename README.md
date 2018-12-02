@@ -1,6 +1,6 @@
 # ToBuy
 Um app para auxiliar na compra de itens que o usuário deseje. 
-Baixe pelo link https://rebrand.ly/tobuy-direct e execute em seu Android.
+Baixe [tobuy.apk](https://rebrand.ly/tobuy-direct) e execute em seu Android.
 
 ![ToBuy Pics](https://i.imgur.com/PZwQn33.png)
 
