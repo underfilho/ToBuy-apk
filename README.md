@@ -9,6 +9,6 @@ Aplicativo e interface simples e direto com sistema de push-notification.
 Dúvidas e/ou sugestões: andersonsantos412@hotmail.com
 
 Feito em Kotlin. 
-Repositório: https://underfilho.visualstudio.com/ToBuy (Privado)
+Repositório: https://underfilho.visualstudio.com/_git/ToBuy (Privado)
 
 v0.3 Beta.
