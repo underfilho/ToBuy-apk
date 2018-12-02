@@ -1,10 +1,10 @@
 # ToBuy
-Um app para lhe auxiliar na compra das coisas que você sempre desejou, mas nunca soube se organizar bem. 
+Um app para auxiliar na compra de itens que o usuário deseje. 
 Baixe [tobuy.apk](https://rebrand.ly/tobuy-direct) e execute em seu Android.
 
 ![ToBuy Pics](https://i.imgur.com/PZwQn33.png)
 
-Aplicativo e interface simples e direto e sistema de push-notification para lhe lembrar sempre que você puder comprar um novo item.
+Aplicativo e interface simples e direto com sistema de push-notification.
 
 Dúvidas e/ou sugestões: andersonsantos412@hotmail.com
 
