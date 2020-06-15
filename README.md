@@ -1,4 +1,4 @@
-# ToBuy
+# ![ToBuy](https://rebrand.ly/tobuy-direct)
 Um app para auxiliar na compra de itens que o usuário deseje. 
 Baixe [tobuy.apk](https://rebrand.ly/tobuy-direct) e execute em seu Android.
 
